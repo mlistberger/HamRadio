@@ -1,5 +1,7 @@
 # HamRadio
 
+This script will take an input file of YouTube URLs and create an OPML file ready for importing into a newsreader.
+
 To use from a Windows PC (change based on your variables):
 
 1) Place the script below into C:\Test\ and name it PS_OPML.ps1 along with input.txt that contains your YouTube URLs.  

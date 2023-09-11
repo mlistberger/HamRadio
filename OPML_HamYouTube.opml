@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Ham Radio YouTube</title>
+  </head>
+  <body>
+    <outline text="CNN.com - Politics" title="CNN.com - Politics" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_allpolitics.rss" htmlUrl="http://www.cnn.com/POLITICS/index.html?eref=rss_politics"/>
+    <outline text="Ham Radio YouTube" title="Ham Radio YouTube">
+      <outline text="Kyle - AA0Z" title="Kyle - AA0Z" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClX--0FpKY48h4cAXFPOWQQ" htmlUrl="https://www.youtube.com/channel/UClX--0FpKY48h4cAXFPOWQQ"/>
+      <outline text="Ham Radio DX" title="Ham Radio DX" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo_jX41l6nYfnrQuk0qsZFw" htmlUrl="https://www.youtube.com/channel/UCo_jX41l6nYfnrQuk0qsZFw"/>
+      <outline text="N0SSC" title="N0SSC" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKtI6RB1a5-NqErRQIQzufg" htmlUrl="https://www.youtube.com/channel/UCKtI6RB1a5-NqErRQIQzufg"/>
+      <outline text="Ham Radio Crash Course" title="Ham Radio Crash Course" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChAu6Cof9KlfFxSbL9ytosQ" htmlUrl="https://www.youtube.com/channel/UChAu6Cof9KlfFxSbL9ytosQ"/>
+      <outline text="SevenFortyOne" title="SevenFortyOne" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChintPJZoKbKUeaAOWpIOgg" htmlUrl="https://www.youtube.com/channel/UChintPJZoKbKUeaAOWpIOgg"/>
+      <outline text="TheSmokinApe" title="TheSmokinApe" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdJlIoWR3mf7apfB1dXS97A" htmlUrl="https://www.youtube.com/channel/UCdJlIoWR3mf7apfB1dXS97A"/>
+      <outline text="Ham Radio 2.0" title="Ham Radio 2.0" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKpVMjRE0m60lKCBWhIlo0A" htmlUrl="https://www.youtube.com/channel/UCKpVMjRE0m60lKCBWhIlo0A"/>
+      <outline text="n2cqr" title="n2cqr" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM_w-IjRClsKFUVTpU01m_A" htmlUrl="https://www.youtube.com/@n2cqr"/>
+      <outline text="Pete Juliano" title="Pete Juliano" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4_ft4-oTdCMlWlL4XXHScg" htmlUrl="https://www.youtube.com/channel/UC4_ft4-oTdCMlWlL4XXHScg"/>
+      <outline text="Kentucky Fried Ham" title="Kentucky Fried Ham" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCreCh77fxmkOHbBSv2IoFyg" htmlUrl="https://www.youtube.com/@KYFriedHam"/>
+    </outline>
+  </body>
+</opml>
